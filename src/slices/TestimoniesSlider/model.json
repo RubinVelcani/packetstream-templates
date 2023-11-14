@@ -1,0 +1,50 @@
+{
+  "id": "testimonies_slider",
+  "type": "SharedSlice",
+  "name": "TestimoniesSlider",
+  "description": "TestimoniesSlider",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "heading": {
+          "type": "StructuredText",
+          "config": {
+            "label": "heading",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading2,strong"
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "description",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "name": {
+          "type": "Text",
+          "config": {
+            "label": "name",
+            "placeholder": ""
+          }
+        },
+        "review": {
+          "type": "Text",
+          "config": {
+            "label": "review",
+            "placeholder": ""
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Truth"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "FieldContent",
+				"value": "crack",
+				"type": "Text"
+			},
+			"group_1_label": {
+				"__TYPE__": "FieldContent",
+				"value": "lion",
+				"type": "Text"
+			},
+			"group_2_label": {
+				"__TYPE__": "FieldContent",
+				"value": "shout",
+				"type": "Text"
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "sometime",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"item_title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "title",
+							"type": "Text"
+						}
+					],
+					[
+						"item_description",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "dance",
+							"type": "Text"
+						}
+					],
+					[
+						"item_image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+								"width": 3810,
+								"height": 5715
+							},
+							"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+							"width": 3810,
+							"height": 5715,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"belongs_to_group",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "87",
+							"type": "Number"
+						}
+					],
+					[
+						"link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://google.com"
+							}
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "3Groups",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Happen"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "FieldContent",
+				"value": "final",
+				"type": "Text"
+			},
+			"group_1_label": {
+				"__TYPE__": "FieldContent",
+				"value": "depth",
+				"type": "Text"
+			},
+			"group_2_label": {
+				"__TYPE__": "FieldContent",
+				"value": "game",
+				"type": "Text"
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "dug",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io"
+				}
+			},
+			"group_3_label": {
+				"__TYPE__": "FieldContent",
+				"value": "exciting",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"item_title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "breeze",
+							"type": "Text"
+						}
+					],
+					[
+						"item_description",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "taught",
+							"type": "Text"
+						}
+					],
+					[
+						"item_image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9",
+								"width": 4752,
+								"height": 3168
+							},
+							"url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9",
+							"width": 4752,
+							"height": 3168,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"belongs_to_group",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "36",
+							"type": "Number"
+						}
+					],
+					[
+						"link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "nonGrouped",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Congress"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "FieldContent",
+				"value": "eat",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"item_title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "closely",
+							"type": "Text"
+						}
+					],
+					[
+						"item_description",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "meat",
+							"type": "Text"
+						}
+					],
+					[
+						"item_image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+								"width": 3810,
+								"height": 5715
+							},
+							"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+							"width": 3810,
+							"height": 5715,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "noHeadingNonGrouped",
+		"primary": {
+			"group_1_label": {
+				"__TYPE__": "FieldContent",
+				"value": "expression",
+				"type": "Text"
+			},
+			"group_2_label": {
+				"__TYPE__": "FieldContent",
+				"value": "pole",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"item_title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "worse",
+							"type": "Text"
+						}
+					],
+					[
+						"item_description",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "look",
+							"type": "Text"
+						}
+					],
+					[
+						"item_image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+								"width": 4000,
+								"height": 4000
+							},
+							"url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+							"width": 4000,
+							"height": 4000,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"belongs_to_group",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "69",
+							"type": "Number"
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "nonGroupedButton",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Vessels"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "FieldContent",
+				"value": "did",
+				"type": "Text"
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "fire",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"item_title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "house",
+							"type": "Text"
+						}
+					],
+					[
+						"item_description",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "acres",
+							"type": "Text"
+						}
+					],
+					[
+						"item_image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+								"width": 4272,
+								"height": 2848
+							},
+							"url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+							"width": 4272,
+							"height": 2848,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	}
+]
